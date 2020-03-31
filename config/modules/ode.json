@@ -1,0 +1,9 @@
+{
+    "inputs"  : {},
+    "outputs" : {},
+    "params"  : {
+    	"conc": [2.5, 2, 1.5],
+    	"t"   : 90,
+    	"filename": "../results/30032020"
+    }
+}

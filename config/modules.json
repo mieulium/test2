@@ -1,21 +1,15 @@
 [
     {
-        "moduleName" : "module1",
-        "path"       : "modules/module1/module1.py",
+        "moduleName" : "odeclass",
+        "path"       : "modules/odeclass.py",
         "execute"    : true,
         "description": "a simple example module",
         "owner"      : ""
     }, {
-        "moduleName" : "versionedModule",
-        "path"       : "modules/versionedModule/versionedModule.py",
+        "moduleName" : "optimize",
+        "path"       : "modules/optimize.py",
         "execute"    : false,
         "description": "a module that tests a versioned library",
-        "owner"      : ""
-    }, {
-        "moduleName" : "celeryCheck",
-        "path"       : "modules/celeryCheck/celeryCheck.py",
-        "execute"    : false,
-        "description": "",
         "owner"      : ""
     }
 ]
